@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "version": "2027.1",
+    "description": "Estimasi skor aman UTBK-SNBT untuk fitur Gap Analyzer & Boss Fight di aplikasi Strive",
+    "allowCustomInput": true
+  },
+  "universities": [
+    {
+      "id": "itb",
+      "name": "Institut Teknologi Bandung (ITB)",
+      "shortName": "ITB",
+      "majors": [
+        { "id": "itb-stei-k", "name": "STEI - Komputasi (Informatika & Sistem Informasi)", "category": "Saintek", "targetScore": 745, "tier": "Sangat Ketat" },
+        { "id": "itb-stei-r", "name": "STEI - Rekayasa (Elektro, Tenaga Listrik, Telekomunikasi)", "category": "Saintek", "targetScore": 710, "tier": "Ketat" },
+        { "id": "itb-ftmd", "name": "Fakultas Teknik Mesin dan Dirgantara (FTMD)", "category": "Saintek", "targetScore": 715, "tier": "Ketat" },
+        { "id": "itb-fti", "name": "Fakultas Teknologi Industri (FTI)", "category": "Saintek", "targetScore": 720, "tier": "Sangat Ketat" },
+        { "id": "itb-ftsl", "name": "Fakultas Teknik Sipil dan Lingkungan (FTSL)", "category": "Saintek", "targetScore": 695, "tier": "Ketat" },
+        { "id": "itb-sbm", "name": "Sekolah Bisnis dan Manajemen (SBM)", "category": "Soshum", "targetScore": 725, "tier": "Sangat Ketat" },
+        { "id": "itb-fsrd", "name": "Fakultas Seni Rupa dan Desain (FSRD)", "category": "Soshum", "targetScore": 685, "tier": "Ketat" }
+      ]
+    },
+    {
+      "id": "ui",
+      "name": "Universitas Indonesia (UI)",
+      "shortName": "UI",
+      "majors": [
+        { "id": "ui-ilkom", "name": "Ilmu Komputer", "category": "Saintek", "targetScore": 740, "tier": "Sangat Ketat" },
+        { "id": "ui-si", "name": "Sistem Informasi", "category": "Saintek", "targetScore": 725, "tier": "Sangat Ketat" },
+        { "id": "ui-fk", "name": "Pendidikan Dokter", "category": "Saintek", "targetScore": 755, "tier": "Sangat Ketat" },
+        { "id": "ui-ti", "name": "Teknik Industri", "category": "Saintek", "targetScore": 715, "tier": "Ketat" },
+        { "id": "ui-te", "name": "Teknik Elektro", "category": "Saintek", "targetScore": 700, "tier": "Ketat" },
+        { "id": "ui-hukum", "name": "Ilmu Hukum", "category": "Soshum", "targetScore": 715, "tier": "Ketat" },
+        { "id": "ui-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 720, "tier": "Sangat Ketat" },
+        { "id": "ui-akuntansi", "name": "Akuntansi", "category": "Soshum", "targetScore": 725, "tier": "Sangat Ketat" },
+        { "id": "ui-psikologi", "name": "Psikologi", "category": "Soshum", "targetScore": 715, "tier": "Ketat" },
+        { "id": "ui-hi", "name": "Ilmu Hubungan Internasional", "category": "Soshum", "targetScore": 730, "tier": "Sangat Ketat" }
+      ]
+    },
+    {
+      "id": "ugm",
+      "name": "Universitas Gadjah Mada (UGM)",
+      "shortName": "UGM",
+      "majors": [
+        { "id": "ugm-ilkom", "name": "Ilmu Komputer", "category": "Saintek", "targetScore": 725, "tier": "Sangat Ketat" },
+        { "id": "ugm-ti", "name": "Teknologi Informasi", "category": "Saintek", "targetScore": 720, "tier": "Sangat Ketat" },
+        { "id": "ugm-fk", "name": "Kedokteran", "category": "Saintek", "targetScore": 750, "tier": "Sangat Ketat" },
+        { "id": "ugm-ts", "name": "Teknik Sipil", "category": "Saintek", "targetScore": 700, "tier": "Ketat" },
+        { "id": "ugm-psikologi", "name": "Psikologi", "category": "Soshum", "targetScore": 715, "tier": "Ketat" },
+        { "id": "ugm-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 720, "tier": "Sangat Ketat" },
+        { "id": "ugm-hukum", "name": "Hukum", "category": "Soshum", "targetScore": 705, "tier": "Ketat" },
+        { "id": "ugm-ilkom-sos", "name": "Ilmu Komunikasi", "category": "Soshum", "targetScore": 710, "tier": "Ketat" }
+      ]
+    },
+    {
+      "id": "its",
+      "name": "Institut Teknologi Sepuluh Nopember (ITS)",
+      "shortName": "ITS",
+      "majors": [
+        { "id": "its-if", "name": "Teknik Informatika", "category": "Saintek", "targetScore": 720, "tier": "Sangat Ketat" },
+        { "id": "its-si", "name": "Sistem Informasi", "category": "Saintek", "targetScore": 705, "tier": "Ketat" },
+        { "id": "its-rpl", "name": "Rekayasa Perangkat Lunak (RPL)", "category": "Saintek", "targetScore": 695, "tier": "Ketat" },
+        { "id": "its-ai", "name": "Rekayasa Kecerdasan Artifisial", "category": "Saintek", "targetScore": 700, "tier": "Ketat" },
+        { "id": "its-te", "name": "Teknik Elektro", "category": "Saintek", "targetScore": 685, "tier": "Ketat" },
+        { "id": "its-ti", "name": "Teknik Industri", "category": "Saintek", "targetScore": 695, "tier": "Ketat" },
+        { "id": "its-mb", "name": "Manajemen Bisnis", "category": "Soshum", "targetScore": 675, "tier": "Sedang" }
+      ]
+    },
+    {
+      "id": "unpad",
+      "name": "Universitas Padjadjaran (Unpad)",
+      "shortName": "Unpad",
+      "majors": [
+        { "id": "unpad-if", "name": "Teknik Informatika", "category": "Saintek", "targetScore": 710, "tier": "Sangat Ketat" },
+        { "id": "unpad-fk", "name": "Pendidikan Dokter", "category": "Saintek", "targetScore": 735, "tier": "Sangat Ketat" },
+        { "id": "unpad-farmasi", "name": "Farmasi", "category": "Saintek", "targetScore": 700, "tier": "Ketat" },
+        { "id": "unpad-psikologi", "name": "Psikologi", "category": "Saintek", "targetScore": 710, "tier": "Ketat" },
+        { "id": "unpad-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 705, "tier": "Ketat" },
+        { "id": "unpad-hukum", "name": "Ilmu Hukum", "category": "Soshum", "targetScore": 690, "tier": "Ketat" },
+        { "id": "unpad-ilkom", "name": "Ilmu Komunikasi", "category": "Soshum", "targetScore": 705, "tier": "Ketat" },
+        { "id": "unpad-bisdig", "name": "Bisnis Digital", "category": "Soshum", "targetScore": 710, "tier": "Sangat Ketat" }
+      ]
+    },
+    {
+      "id": "upi",
+      "name": "Universitas Pendidikan Indonesia (UPI)",
+      "shortName": "UPI",
+      "majors": [
+        { "id": "upi-ilkom", "name": "Ilmu Komputer", "category": "Saintek", "targetScore": 670, "tier": "Ketat" },
+        { "id": "upi-rpl", "name": "Rekayasa Perangkat Lunak (RPL)", "category": "Saintek", "targetScore": 660, "tier": "Ketat" },
+        { "id": "upi-pst", "name": "Pendidikan Sistem dan Teknologi Informasi (Kampus Purwakarta)", "category": "Saintek", "targetScore": 635, "tier": "Sedang" },
+        { "id": "upi-mekatronika", "name": "Sistem Telekomunikasi (Kampus Purwakarta)", "category": "Saintek", "targetScore": 625, "tier": "Sedang" },
+        { "id": "upi-psikologi", "name": "Psikologi", "category": "Soshum", "targetScore": 675, "tier": "Ketat" },
+        { "id": "upi-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 665, "tier": "Ketat" }
+      ]
+    },
+    {
+      "id": "ipb",
+      "name": "IPB University (Institut Pertanian Bogor)",
+      "shortName": "IPB",
+      "majors": [
+        { "id": "ipb-ilkom", "name": "Ilmu Komputer", "category": "Saintek", "targetScore": 705, "tier": "Ketat" },
+        { "id": "ipb-stat", "name": "Statistika dan Sains Data", "category": "Saintek", "targetScore": 700, "tier": "Ketat" },
+        { "id": "ipb-tp", "name": "Teknologi Pangan", "category": "Saintek", "targetScore": 690, "tier": "Ketat" },
+        { "id": "ipb-fk", "name": "Kedokteran", "category": "Saintek", "targetScore": 725, "tier": "Sangat Ketat" },
+        { "id": "ipb-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 685, "tier": "Ketat" },
+        { "id": "ipb-bisnis", "name": "Bisnis", "category": "Soshum", "targetScore": 680, "tier": "Ketat" }
+      ]
+    },
+    {
+      "id": "undip",
+      "name": "Universitas Diponegoro (Undip)",
+      "shortName": "Undip",
+      "majors": [
+        { "id": "undip-if", "name": "Informatika", "category": "Saintek", "targetScore": 700, "tier": "Ketat" },
+        { "id": "undip-tk", "name": "Teknik Komputer", "category": "Saintek", "targetScore": 680, "tier": "Ketat" },
+        { "id": "undip-fk", "name": "Kedokteran", "category": "Saintek", "targetScore": 730, "tier": "Sangat Ketat" },
+        { "id": "undip-hukum", "name": "Hukum", "category": "Soshum", "targetScore": 685, "tier": "Ketat" },
+        { "id": "undip-psikologi", "name": "Psikologi", "category": "Soshum", "targetScore": 690, "tier": "Ketat" },
+        { "id": "undip-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 695, "tier": "Ketat" }
+      ]
+    },
+    {
+      "id": "ub",
+      "name": "Universitas Brawijaya (UB)",
+      "shortName": "UB",
+      "majors": [
+        { "id": "ub-tif", "name": "Teknik Informatika", "category": "Saintek", "targetScore": 695, "tier": "Ketat" },
+        { "id": "ub-si", "name": "Sistem Informasi", "category": "Saintek", "targetScore": 685, "tier": "Ketat" },
+        { "id": "ub-ti", "name": "Teknologi Informasi", "category": "Saintek", "targetScore": 675, "tier": "Ketat" },
+        { "id": "ub-fk", "name": "Kedokteran", "category": "Saintek", "targetScore": 725, "tier": "Sangat Ketat" },
+        { "id": "ub-hukum", "name": "Ilmu Hukum", "category": "Soshum", "targetScore": 675, "tier": "Ketat" },
+        { "id": "ub-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 685, "tier": "Ketat" }
+      ]
+    },
+    {
+      "id": "unair",
+      "name": "Universitas Airlangga (Unair)",
+      "shortName": "Unair",
+      "majors": [
+        { "id": "unair-fk", "name": "Kedokteran", "category": "Saintek", "targetScore": 740, "tier": "Sangat Ketat" },
+        { "id": "unair-si", "name": "Sistem Informasi", "category": "Saintek", "targetScore": 685, "tier": "Ketat" },
+        { "id": "unair-sd", "name": "Teknologi Sains Data", "category": "Saintek", "targetScore": 680, "tier": "Ketat" },
+        { "id": "unair-psikologi", "name": "Psikologi", "category": "Soshum", "targetScore": 690, "tier": "Ketat" },
+        { "id": "unair-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 695, "tier": "Ketat" }
+      ]
+    },
+    {
+      "id": "unsika",
+      "name": "Universitas Singaperbangsa Karawang (Unsika)",
+      "shortName": "Unsika",
+      "majors": [
+        { "id": "unsika-if", "name": "Informatika", "category": "Saintek", "targetScore": 625, "tier": "Sedang" },
+        { "id": "unsika-si", "name": "Sistem Informasi", "category": "Saintek", "targetScore": 615, "tier": "Sedang" },
+        { "id": "unsika-ti", "name": "Teknik Industri", "category": "Saintek", "targetScore": 610, "tier": "Sedang" },
+        { "id": "unsika-manajemen", "name": "Manajemen", "category": "Soshum", "targetScore": 615, "tier": "Sedang" },
+        { "id": "unsika-hukum", "name": "Ilmu Hukum", "category": "Soshum", "targetScore": 605, "tier": "Sedang" }
+      ]
+    },
+    {
+      "id": "telkom",
+      "name": "Telkom University (Tel-U)",
+      "shortName": "Tel-U",
+      "majors": [
+        { "id": "telu-if", "name": "S1 Informatika", "category": "Saintek", "targetScore": 650, "tier": "Ketat" },
+        { "id": "telu-rpl", "name": "S1 Rekayasa Perangkat Lunak (RPL)", "category": "Saintek", "targetScore": 640, "tier": "Sedang" },
+        { "id": "telu-si", "name": "S1 Sistem Informasi", "category": "Saintek", "targetScore": 635, "tier": "Sedang" },
+        { "id": "telu-ds", "name": "S1 Sains Data", "category": "Saintek", "targetScore": 635, "tier": "Sedang" },
+        { "id": "telu-mbti", "name": "S1 Manajemen Bisnis Telekomunikasi & Informatika (MBTI)", "category": "Soshum", "targetScore": 640, "tier": "Sedang" }
+      ]
+    }
+  ]
+}
